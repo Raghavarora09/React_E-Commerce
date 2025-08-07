@@ -9,6 +9,7 @@ const AboutPage = () => {
         <hr />
         <p className="lead text-center">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
+          testing.....
           facere doloremque veritatis odit similique sequi. Odit amet fuga nam
           quam quasi facilis sed doloremque saepe sint perspiciatis explicabo
           totam vero quas provident ipsam, veritatis nostrum velit quos
